@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Gemini_AI-Integrated-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
-
 <p align="center">
   A full-stack, production-ready <strong>NLP Sentiment Analysis Platform</strong> built with a custom ML pipeline, TF-IDF vectorization, real-time analytics dashboards, and optional <strong>Google Gemini AI</strong> integration for deep generative explanations.
 </p>
