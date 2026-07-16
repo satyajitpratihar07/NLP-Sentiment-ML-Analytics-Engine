@@ -1,0 +1,322 @@
+[
+  {
+    "id": "seed-0",
+    "text": "I absolutely love this new update! It runs super fast and the user interface is amazingly clean.",
+    "sentiment": "positive",
+    "confidence": 0.96,
+    "probabilities": {
+      "positive": 0.96,
+      "neutral": 0.020000000000000018,
+      "negative": 0.020000000000000018
+    },
+    "emotion": "Joy",
+    "keywords": [
+      {
+        "word": "product",
+        "score": 0.25
+      },
+      {
+        "word": "quality",
+        "score": 0.18
+      }
+    ],
+    "aiExplanation": "Based on terms like \"love\", the sentence expresses a strong positive sentiment. The tone aligns with Joy.",
+    "modelUsed": "Logistic Regression",
+    "timestamp": "2026-07-16T10:50:57.502Z",
+    "sentences": [
+      {
+        "text": "I absolutely love this new update! It runs super fast and the user interface is amazingly clean.",
+        "sentiment": "positive",
+        "confidence": 0.96
+      }
+    ]
+  },
+  {
+    "id": "seed-1",
+    "text": "The camera quality is decent, but the battery drains relatively quickly during normal tasks.",
+    "sentiment": "neutral",
+    "confidence": 0.58,
+    "probabilities": {
+      "positive": 0.21000000000000002,
+      "neutral": 0.58,
+      "negative": 0.21000000000000002
+    },
+    "emotion": "Neutral",
+    "keywords": [
+      {
+        "word": "product",
+        "score": 0.25
+      },
+      {
+        "word": "quality",
+        "score": 0.18
+      }
+    ],
+    "aiExplanation": "Based on terms like \"quality\", the sentence expresses a strong neutral sentiment. The tone aligns with Neutral.",
+    "modelUsed": "Naive Bayes",
+    "timestamp": "2026-07-15T10:50:57.502Z",
+    "sentences": [
+      {
+        "text": "The camera quality is decent, but the battery drains relatively quickly during normal tasks.",
+        "sentiment": "neutral",
+        "confidence": 0.58
+      }
+    ]
+  },
+  {
+    "id": "seed-2",
+    "text": "Terrible product. It crashed twice in the first ten minutes. Completely unusable!",
+    "sentiment": "negative",
+    "confidence": 0.98,
+    "probabilities": {
+      "positive": 0.010000000000000009,
+      "neutral": 0.010000000000000009,
+      "negative": 0.98
+    },
+    "emotion": "Anger",
+    "keywords": [
+      {
+        "word": "product",
+        "score": 0.25
+      },
+      {
+        "word": "quality",
+        "score": 0.18
+      }
+    ],
+    "aiExplanation": "Based on terms like \"It\", the sentence expresses a strong negative sentiment. The tone aligns with Anger.",
+    "modelUsed": "Linear SVM",
+    "timestamp": "2026-07-14T10:50:57.502Z",
+    "sentences": [
+      {
+        "text": "Terrible product. It crashed twice in the first ten minutes. Completely unusable!",
+        "sentiment": "negative",
+        "confidence": 0.98
+      }
+    ]
+  },
+  {
+    "id": "seed-3",
+    "text": "We need to discuss the upcoming roadmap in the scheduled team standup tomorrow.",
+    "sentiment": "neutral",
+    "confidence": 0.89,
+    "probabilities": {
+      "positive": 0.05499999999999999,
+      "neutral": 0.89,
+      "negative": 0.05499999999999999
+    },
+    "emotion": "Neutral",
+    "keywords": [
+      {
+        "word": "product",
+        "score": 0.25
+      },
+      {
+        "word": "quality",
+        "score": 0.18
+      }
+    ],
+    "aiExplanation": "Based on terms like \"to\", the sentence expresses a strong neutral sentiment. The tone aligns with Neutral.",
+    "modelUsed": "Logistic Regression",
+    "timestamp": "2026-07-13T10:50:57.502Z",
+    "sentences": [
+      {
+        "text": "We need to discuss the upcoming roadmap in the scheduled team standup tomorrow.",
+        "sentiment": "neutral",
+        "confidence": 0.89
+      }
+    ]
+  },
+  {
+    "id": "seed-4",
+    "text": "The customer service was wonderfully friendly and solved my issue in under a minute.",
+    "sentiment": "positive",
+    "confidence": 0.94,
+    "probabilities": {
+      "positive": 0.94,
+      "neutral": 0.030000000000000027,
+      "negative": 0.030000000000000027
+    },
+    "emotion": "Joy",
+    "keywords": [
+      {
+        "word": "product",
+        "score": 0.25
+      },
+      {
+        "word": "quality",
+        "score": 0.18
+      }
+    ],
+    "aiExplanation": "Based on terms like \"service\", the sentence expresses a strong positive sentiment. The tone aligns with Joy.",
+    "modelUsed": "Naive Bayes",
+    "timestamp": "2026-07-12T10:50:57.502Z",
+    "sentences": [
+      {
+        "text": "The customer service was wonderfully friendly and solved my issue in under a minute.",
+        "sentiment": "positive",
+        "confidence": 0.94
+      }
+    ]
+  },
+  {
+    "id": "seed-5",
+    "text": "Disappointed with the shipping delays. The box came damaged and torn at the corners.",
+    "sentiment": "negative",
+    "confidence": 0.88,
+    "probabilities": {
+      "positive": 0.06,
+      "neutral": 0.06,
+      "negative": 0.88
+    },
+    "emotion": "Sadness",
+    "keywords": [
+      {
+        "word": "product",
+        "score": 0.25
+      },
+      {
+        "word": "quality",
+        "score": 0.18
+      }
+    ],
+    "aiExplanation": "Based on terms like \"the\", the sentence expresses a strong negative sentiment. The tone aligns with Sadness.",
+    "modelUsed": "Linear SVM",
+    "timestamp": "2026-07-11T10:50:57.502Z",
+    "sentences": [
+      {
+        "text": "Disappointed with the shipping delays. The box came damaged and torn at the corners.",
+        "sentiment": "negative",
+        "confidence": 0.88
+      }
+    ]
+  },
+  {
+    "id": "seed-6",
+    "text": "The system is functioning exactly within the normal parameters.",
+    "sentiment": "neutral",
+    "confidence": 0.91,
+    "probabilities": {
+      "positive": 0.044999999999999984,
+      "neutral": 0.91,
+      "negative": 0.044999999999999984
+    },
+    "emotion": "Neutral",
+    "keywords": [
+      {
+        "word": "product",
+        "score": 0.25
+      },
+      {
+        "word": "quality",
+        "score": 0.18
+      }
+    ],
+    "aiExplanation": "Based on terms like \"is\", the sentence expresses a strong neutral sentiment. The tone aligns with Neutral.",
+    "modelUsed": "Logistic Regression",
+    "timestamp": "2026-07-10T10:50:57.502Z",
+    "sentences": [
+      {
+        "text": "The system is functioning exactly within the normal parameters.",
+        "sentiment": "neutral",
+        "confidence": 0.91
+      }
+    ]
+  },
+  {
+    "id": "seed-7",
+    "text": "This is a masterpiece. The cinematography, music, and performance were all superb.",
+    "sentiment": "positive",
+    "confidence": 0.97,
+    "probabilities": {
+      "positive": 0.97,
+      "neutral": 0.015000000000000013,
+      "negative": 0.015000000000000013
+    },
+    "emotion": "Surprise",
+    "keywords": [
+      {
+        "word": "product",
+        "score": 0.25
+      },
+      {
+        "word": "quality",
+        "score": 0.18
+      }
+    ],
+    "aiExplanation": "Based on terms like \"a\", the sentence expresses a strong positive sentiment. The tone aligns with Surprise.",
+    "modelUsed": "Naive Bayes",
+    "timestamp": "2026-07-09T10:50:57.502Z",
+    "sentences": [
+      {
+        "text": "This is a masterpiece. The cinematography, music, and performance were all superb.",
+        "sentiment": "positive",
+        "confidence": 0.97
+      }
+    ]
+  },
+  {
+    "id": "seed-8",
+    "text": "I felt so scammed by the promotional advertisements. It does not work as advertised.",
+    "sentiment": "negative",
+    "confidence": 0.92,
+    "probabilities": {
+      "positive": 0.03999999999999998,
+      "neutral": 0.03999999999999998,
+      "negative": 0.92
+    },
+    "emotion": "Fear",
+    "keywords": [
+      {
+        "word": "product",
+        "score": 0.25
+      },
+      {
+        "word": "quality",
+        "score": 0.18
+      }
+    ],
+    "aiExplanation": "Based on terms like \"so\", the sentence expresses a strong negative sentiment. The tone aligns with Fear.",
+    "modelUsed": "Linear SVM",
+    "timestamp": "2026-07-08T10:50:57.502Z",
+    "sentences": [
+      {
+        "text": "I felt so scammed by the promotional advertisements. It does not work as advertised.",
+        "sentiment": "negative",
+        "confidence": 0.92
+      }
+    ]
+  },
+  {
+    "id": "seed-9",
+    "text": "Is there any charge for additional storage options?",
+    "sentiment": "neutral",
+    "confidence": 0.74,
+    "probabilities": {
+      "positive": 0.13,
+      "neutral": 0.74,
+      "negative": 0.13
+    },
+    "emotion": "Neutral",
+    "keywords": [
+      {
+        "word": "product",
+        "score": 0.25
+      },
+      {
+        "word": "quality",
+        "score": 0.18
+      }
+    ],
+    "aiExplanation": "Based on terms like \"any\", the sentence expresses a strong neutral sentiment. The tone aligns with Neutral.",
+    "modelUsed": "Logistic Regression",
+    "timestamp": "2026-07-07T10:50:57.502Z",
+    "sentences": [
+      {
+        "text": "Is there any charge for additional storage options?",
+        "sentiment": "neutral",
+        "confidence": 0.74
+      }
+    ]
+  }
+]

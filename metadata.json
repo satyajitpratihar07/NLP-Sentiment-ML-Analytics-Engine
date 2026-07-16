@@ -1,0 +1,6 @@
+{
+  "name": "Sentiment Analysis ML Platform",
+  "description": "Full-stack sentiment analysis application with custom NLP pipeline, machine learning models (Naive Bayes, Logistic Regression, SVM), interactive dashboard, and Gemini AI explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
