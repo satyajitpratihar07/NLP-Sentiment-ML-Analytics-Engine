@@ -266,8 +266,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ## 👨‍💻 Author
-
-**Satyajit Pratihar**  
+Developed By-
+❤️Satyajit Pratihar❤️ 
 GitHub: [@satyajitpratihar07](https://github.com/satyajitpratihar07)
 
 ---
